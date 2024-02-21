@@ -50,7 +50,7 @@ This project is a fully responsive Nike fake store app, beautifully styled with 
 
 ## Preview
 
-You can access the live project [here](https://nike-store-app-omega.vercel.app/).
+You can access the live project [here](http://192.168.10.91:5173/).
 
 ## Screenshots
 
@@ -65,7 +65,6 @@ You can access the live project [here](https://nike-store-app-omega.vercel.app/)
 
 To use the Nike Store App, follow these steps:
 
-1. Open the app in your web browser by clicking on the [live project link](https://nike-store-app-omega.vercel.app/).
 1. Open the app in your web browser by clicking on the [live project link](http://192.168.10.91:5173/).
 2. Browse the Nike products available in the store.
 

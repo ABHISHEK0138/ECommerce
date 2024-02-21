@@ -1,6 +1,6 @@
 
 ```markdown
-# Nike Store App
+# ECommerceStore
 
 ## Project Setup
 
@@ -66,7 +66,7 @@ You can access the live project [here](https://nike-store-app-omega.vercel.app/)
 To use the Nike Store App, follow these steps:
 
 1. Open the app in your web browser by clicking on the [live project link](https://nike-store-app-omega.vercel.app/).
-
+1. Open the app in your web browser by clicking on the [live project link](http://192.168.10.91:5173/).
 2. Browse the Nike products available in the store.
 
 3. Sign up for an account using the "Sign Up" feature.
